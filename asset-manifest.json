@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/learning-language-website/static/css/main.0888ce2d.chunk.css",
+    "main.js": "/learning-language-website/static/js/main.6f18668b.chunk.js",
+    "main.js.map": "/learning-language-website/static/js/main.6f18668b.chunk.js.map",
+    "runtime-main.js": "/learning-language-website/static/js/runtime-main.1956e52d.js",
+    "runtime-main.js.map": "/learning-language-website/static/js/runtime-main.1956e52d.js.map",
+    "static/js/2.338ea461.chunk.js": "/learning-language-website/static/js/2.338ea461.chunk.js",
+    "static/js/2.338ea461.chunk.js.map": "/learning-language-website/static/js/2.338ea461.chunk.js.map",
+    "index.html": "/learning-language-website/index.html",
+    "static/css/main.0888ce2d.chunk.css.map": "/learning-language-website/static/css/main.0888ce2d.chunk.css.map",
+    "static/js/2.338ea461.chunk.js.LICENSE.txt": "/learning-language-website/static/js/2.338ea461.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1956e52d.js",
+    "static/js/2.338ea461.chunk.js",
+    "static/css/main.0888ce2d.chunk.css",
+    "static/js/main.6f18668b.chunk.js"
+  ]
+}
