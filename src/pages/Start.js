@@ -19,11 +19,17 @@ const useStyles = makeStyles((theme) => ({
   h2: {
     color: "#A6B0FF",
   },
-  p: {
+  a: {
     fontFamily: "Courier, monospace",
     fontSize: 20,
     marginBottom: 40,
     marginTop: 40,
+    marginRight: 20,
+    textDecoration: "none",
+    color: "white",
+  },
+  box: {
+    marginTop: 25,
   },
   audio: {
     width: 20,
@@ -136,14 +142,19 @@ function Start() {
         >
           pesquisar sorteados
         </Button> */}
-
-        {numbersWordRandom.map(function (item) {
-          return (
-            <div>
-              <p className={classes.p}>{item}</p>
-            </div>
-          );
-        })}
+        <div className={classes.box}>
+          {numbersWordRandom.map(function (item) {
+            return (
+              <a
+                href={`https://translate.google.com/?sl=en&tl=pt&text=${item}&op=translate`}
+                target="_blank"
+                className={classes.a}
+              >
+                {item}
+              </a>
+            );
+          })}
+        </div>
 
         <Structure phrases={phrases} phonetics={phonetics} images={images} />
       </header>
