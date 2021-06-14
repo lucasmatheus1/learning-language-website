@@ -8,6 +8,6 @@ Projeto desenvolvido para ajuda no aprendizado de Inglês.
 - Frases
 - Imagem
 
-
+![](llw.gif)
 
 <a href="https://lucasmatheus1.github.io/llw/" target="blank">URL</a>
