@@ -2,7 +2,9 @@
 
 Projeto desenvolvido para ajuda no aprendizado de Inglês. 
 
-### Ferramentas oferecidas
+> Desenvolvido em ReactJS
+
+### Funcionalidades
 
 - Áudio da pronúncia
 - Frases
